@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ZoDo/static/css/main.bb32f43e.chunk.css",
+    "main.js": "/ZoDo/static/js/main.48f46220.chunk.js",
+    "main.js.map": "/ZoDo/static/js/main.48f46220.chunk.js.map",
+    "runtime-main.js": "/ZoDo/static/js/runtime-main.b4a7d60b.js",
+    "runtime-main.js.map": "/ZoDo/static/js/runtime-main.b4a7d60b.js.map",
+    "static/js/2.77fe1749.chunk.js": "/ZoDo/static/js/2.77fe1749.chunk.js",
+    "static/js/2.77fe1749.chunk.js.map": "/ZoDo/static/js/2.77fe1749.chunk.js.map",
+    "static/js/3.e6d86769.chunk.js": "/ZoDo/static/js/3.e6d86769.chunk.js",
+    "static/js/3.e6d86769.chunk.js.map": "/ZoDo/static/js/3.e6d86769.chunk.js.map",
+    "index.html": "/ZoDo/index.html",
+    "static/css/main.bb32f43e.chunk.css.map": "/ZoDo/static/css/main.bb32f43e.chunk.css.map",
+    "static/js/2.77fe1749.chunk.js.LICENSE.txt": "/ZoDo/static/js/2.77fe1749.chunk.js.LICENSE.txt",
+    "static/media/ZH.50da57dc.svg": "/ZoDo/static/media/ZH.50da57dc.svg",
+    "static/media/add.83d15d4e.svg": "/ZoDo/static/media/add.83d15d4e.svg",
+    "static/media/menu_bar.e781fc75.svg": "/ZoDo/static/media/menu_bar.e781fc75.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4a7d60b.js",
+    "static/js/2.77fe1749.chunk.js",
+    "static/css/main.bb32f43e.chunk.css",
+    "static/js/main.48f46220.chunk.js"
+  ]
+}
